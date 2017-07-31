@@ -25,7 +25,7 @@ SECRET_KEY = 's-#bzo+e6+0%+tead@k!%ll2b*6)3nwj(oo0((_ac&o(=^ux83'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'jmshapland.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jmshapland.herokuapp.com', 'blog-jmshapland.herokuapp.com']
 
 
 # Application definition
